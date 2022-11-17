@@ -1,0 +1,38 @@
+/* PRIMARY COLORS */
+$primary-blue: hsl(219, 85%, 26%);
+$primary-red: hsl(1, 90%, 64%);
+
+/* NEUTRAL COLORS */
+$neutral-white: hsl(0, 0%, 100%);
+$neutral-blue-100: hsl(210, 60%, 98%);
+$neutral-blue-200: hsl(211, 68%, 94%);
+$neutral-blue-300: hsl(205, 33%, 90%);
+$neutral-blue-400: hsl(219, 14%, 63%);
+$neutral-blue-500: hsl(219, 12%, 42%);
+$neutral-blue-600: hsl(224, 21%, 14%);
+
+/* FONT STACK */
+$font-bold: 800;
+
+body { 
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 500; 
+    font-size: 16px;
+}
+
+/* ------------------------------------------- */
+
+
+
+
+
+
+
+
+
+
+
+/* MEDIA QUERIES - DESKTOP */
+@media screen and (min-width: 1440px) {
+    
+}
