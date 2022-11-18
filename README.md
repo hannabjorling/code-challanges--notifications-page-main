@@ -33,5 +33,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://hannabjorling.github.io/portfolio/)
+- Website - [Hanna Björling](https://hannabjorling.github.io/portfolio/)
 - Frontend Mentor - [@hannahbjorling](https://www.frontendmentor.io/profile/yourusername)
